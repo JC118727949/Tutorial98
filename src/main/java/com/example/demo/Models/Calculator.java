@@ -6,7 +6,7 @@ public class Calculator {
     private double middleOperand; //NEW
     private String operator;
     boolean triple;
-
+//DASDSADSADSAdddsada
     public Calculator(double leftOperand, double rightOperand, String operator) {
         this.leftOperand = leftOperand;
         this.rightOperand = rightOperand;
