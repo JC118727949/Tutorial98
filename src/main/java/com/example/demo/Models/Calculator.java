@@ -23,7 +23,7 @@ public class Calculator {
         this.triple = true;
     }
     
-    
+    //TESTING
     public double getLeftOperand() {
         return leftOperand;
     }
